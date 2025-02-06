@@ -26,11 +26,6 @@ Questo progetto mira a prevedere il genere di film o altri contenuti basandosi s
    cd Genre-Prediction-Model
    ```
 
-2. **Installare le Dipendenze:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Utilizzo
 
 1. **Preparare il Dataset:**
@@ -45,15 +40,3 @@ Questo progetto mira a prevedere il genere di film o altri contenuti basandosi s
 ## Contributi
 
 Contributi e suggerimenti sono benvenuti! Si prega di fare un fork del repository e inviare una pull request con le proprie modifiche o correzioni.
-
-## Licenza
-
-Questo progetto è distribuito sotto la licenza MIT.
-
-## Ringraziamenti
-
-Un ringraziamento speciale ai contributori di progetti correlati e alla comunità open-source per le risorse e l'ispirazione fornita.
-
----
-
-*Nota: Questo README è basato sulle informazioni disponibili e potrebbe necessitare di aggiornamenti man mano che il progetto evolve.*
